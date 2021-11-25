@@ -1,11 +1,11 @@
 # Blockchain-Building-Blocks
 In this screenshot, I created a Ganache account and generated some test Ethereum wallets. I copied the address to test sending Ether. 
 
-<img width="1440" alt="Screen Shot 2021-11-22 at 6 38 10 PM" src="https://user-images.githubusercontent.com/87285522/143325811-cb3bb069-d67b-4291-89d9-be1df35059ca.png"
+<img width="1440" alt="Screen Shot 2021-11-22 at 6 38 10 PM" src="https://user-images.githubusercontent.com/87285522/143325811-cb3bb069-d67b-4291-89d9-be1df35059ca.png">
      
 In the second screenshot< I added the copied address to my MyCrypto account under view/send to send the wallet some ether from my MyCrypto wallet. 
 
-<img width="1440" alt="Screen Shot 2021-11-22 at 6 38 10 PM" src="https://user-images.githubusercontent.com/87285522/143325811-cb3bb069-d67b-4291-89d9-be1df35059ca.png"
+<img width="1440" alt="Screen Shot 2021-11-22 at 6 38 10 PM" src="https://user-images.githubusercontent.com/87285522/143325811-cb3bb069-d67b-4291-89d9-be1df35059ca.png">
      
 In the 3rd screenshot, I added 10 ether to send to the Ganache wallet. 
      
@@ -19,4 +19,5 @@ In the 5th screenshot, I verifed the contract on Ganache.
 
 <img width="1440" alt="Screen Shot 2021-11-22 at 7 01 10 PM" src="https://user-images.githubusercontent.com/87285522/143326792-20efa054-7b36-4b54-827f-c8ce71b08f3d.png">
 
+In the 6th and final screenshot, I recovered my wallet on MyCrypto using a Mnemonic Phrase. 
 
