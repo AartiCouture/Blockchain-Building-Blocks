@@ -21,3 +21,5 @@ In the 5th screenshot, I verifed the contract on Ganache.
 
 In the 6th and final screenshot, I recovered my wallet on MyCrypto using a Mnemonic Phrase. 
 
+<img width="1440" alt="Screen Shot 2021-11-22 at 7 02 09 PM" src="https://user-images.githubusercontent.com/87285522/143326816-1e86fc99-f5e5-494b-a07c-fcb4eff4f5bd.png">
+
